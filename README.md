@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Lâm Ngọc Như, MSSV 225224.
+Đây là README được chỉnh sửa từ nhánh main.
